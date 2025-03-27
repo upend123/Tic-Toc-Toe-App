@@ -34,7 +34,7 @@ This **Tic-Tac-Toe** app is designed for Android devices with an intuitive and m
 
 ## 📸 Screenshots
 
-![Home Screen](<img src="https://raw.githubusercontent.com/username/repository-name/main/folder-name/image-name.jpg" width="300" height="200" />
+![Home Screen](<img src="https://raw.githubusercontent.comupend123/Tic-Toc-Toe-App/app/src/main/res/drawable/add_or_update_task.jpg" width="300" height="200" />
 )
 
 ## 🛠️ Installation Guide
