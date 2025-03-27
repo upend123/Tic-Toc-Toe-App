@@ -34,21 +34,8 @@ This **Tic-Tac-Toe** app is designed for Android devices with an intuitive and m
 
 ## 📸 Screenshots
 
-To add a screenshot, use the Markdown syntax:
-
-```markdown
-![Game Screenshot](relative/path/to/your-image.jpg)
-```
-
-For better size control, use HTML:
-
-```html
-<img src="relative/path/to/your-image.jpg" width="300" />
-```
-
-Make sure to replace `relative/path/to/your-image.jpg` with the correct path to your image.
-
----
+![Home Screen](<img src="https://raw.githubusercontent.com/username/repository-name/main/folder-name/image-name.jpg" width="300" height="200" />
+)
 
 ## 🛠️ Installation Guide
 
