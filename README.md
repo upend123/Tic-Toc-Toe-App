@@ -55,7 +55,7 @@ Ensure you have the following before proceeding:
 - **An Android device** or an emulator for testing.
 
 ### 📥 Installing the APK (For Android Users):
-1. **Download the APK** from the **[Releases Section](https://github.com/upend123/Tic-Tac-Toe-App/releases)**.
+1. **Download the APK** from the **[Releases Section](https://github.com/upend123/Tic-Toc-Toe-App/releases)**.
 2. Enable installation from **Unknown Sources** in your device settings.
 3. Open the downloaded APK file and install it.
 4. Launch the app and start playing!
